@@ -1,0 +1,15 @@
+English:
+CrossNER: Llm-adapters: An adapter family for parameter-efficient fine-tuning of large language models
+WikiEvents: Document-Level Event Argument Extraction by Conditional Generation
+RAMS:  Multi-sentence argument linking
+CrudeOil: CrudeOilNews: An Annotated Crude Oil News Corpus for Event Extraction
+FewRel: FewRel: A Large-Scale Supervised Few-Shot Relation Classification Dataset with State-of-the-Art Evaluation
+
+Chinese:
+Boson: https://github.com/InsaneLife/
+Weibo: Named Entity Recognition for Chinese Social Media with Jointly Trained Embeddings
+FewFC: What the role is vs. what plays the role: Semi-supervised event argument extraction via dual question answering
+CCF Law: https://aistudio.baidu.com/projectdetail/4201483
+SKE2020: https://aistudio.baidu.com/datasetdetail/177191
+COAE2016: https://github.com/Sewens/COAE2016
+IPRE: What the role is vs. what plays the role: Semi-supervised event argument extraction via dual question answering
