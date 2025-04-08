@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+The training datasets is the 20trianG.txt
+The test datasets are listed in the testList.txt
 <!--
 **ChunkUIE/chunkuie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
